@@ -1,7 +1,11 @@
 <?php
+error_reporting(0);
+
+
 define('RSS2', 1, true);
 define('JSON', 2, true);
 define('JSONP', 3, true);
+
 
  /**
  * Univarsel Feed Writer class
